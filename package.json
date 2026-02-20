@@ -1,5 +1,5 @@
 {
-  "name": "tasktrackerapp",
+  "name": "task-tracker-cli",
   "version": "1.0.0",
   "description": "an app used to track and manage your tasks",
   "homepage": "https://github.com/olaleksi/TaskTrackerApp#readme",
@@ -16,5 +16,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "task-cli":"index.js"
   }
 }
