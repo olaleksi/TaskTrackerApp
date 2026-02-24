@@ -9,9 +9,9 @@
   {
     "id": 4,
     "description": "buy",
-    "status": "todo",
+    "status": "done",
     "createdAt": "2026-02-20T16:09:11.778Z",
-    "updatedAt": "2026-02-20T16:09:11.779Z"
+    "updatedAt": "2026-02-24T16:24:34.702Z"
   },
   {
     "id": 5,
@@ -33,5 +33,12 @@
     "status": "done",
     "createdAt": "2026-02-20T16:36:11.884Z",
     "updatedAt": "2026-02-20T16:44:25.031Z"
+  },
+  {
+    "id": 8,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2026-02-24T15:44:22.989Z",
+    "updatedAt": "2026-02-24T15:44:22.989Z"
   }
 ]

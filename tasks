@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2026-02-24T15:11:16.000Z",
+    "updatedAt": "2026-02-24T15:11:16.001Z"
+  },
+  {
+    "id": 2,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2026-02-24T15:11:25.637Z",
+    "updatedAt": "2026-02-24T15:11:25.638Z"
+  },
+  {
+    "id": 3,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2026-02-24T15:11:33.606Z",
+    "updatedAt": "2026-02-24T15:11:33.607Z"
+  },
+  {
+    "id": 4,
+    "description": "Buy guns",
+    "status": "todo",
+    "createdAt": "2026-02-24T15:11:46.410Z",
+    "updatedAt": "2026-02-24T15:11:46.411Z"
+  }
+]
